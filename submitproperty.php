@@ -13,9 +13,6 @@
 <link rel="shortcut icon" href="images/favicon.ico">
 
 <!--	Fonts
-	========================================================-->
-<link href="https://fonts.googleapis.com/css?family=Muli:400,400i,500,600,700&amp;display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Comfortaa:400,700" rel="stylesheet">
 
 <!--	Css Link
 	========================================================-->

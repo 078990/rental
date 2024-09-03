@@ -8,7 +8,7 @@ $insert=mysqli_query($con,"INSERT into addproperty values ('','$title','$ptype',
 if ($insert==true){
 	// code...
 	echo "correct";
-	include "viewproperty.php";
+	
 }
 else{
 	echo "0";
